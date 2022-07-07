@@ -1,7 +1,6 @@
 <!-- START -->
 <p align="center">
   <a href="#">
-    <img alt="rodneyrinaldi" src="https://github.com/rodneyrinaldi/esqueca.me/blob/master/public/rr-logo.png" width="60" />
   </a>
 </p>
 
@@ -11,7 +10,6 @@
 
 <p align="center">
   <a href="#">
-    <img alt="rodneyrinaldi" src="https://github.com/rodneyrinaldi/esqueca.me/blob/master/public/page.png" width="600" />
   </a>
 </p>
 <!-- END -->
